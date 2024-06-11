@@ -1,4 +1,4 @@
-# mi-proyecto
+# pinia
 
 ## Project setup
 ```
